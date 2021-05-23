@@ -1,0 +1,7 @@
+Assignment 2 (Operating System In Practice)
+
+Using Logs to Help Track Down An Issue In Windows 
+1. Assigning permissions for a file (eg- read or modify permissions to admin, guest etc)
+2. Deleting a file for which one does not have permissions
+3. Ending a running process using task manager 
+4. Checking for updates for any installed application on the system. 
