@@ -1,0 +1,17 @@
+Assignment 1 (Process Management):
+Maintain Efficient Process Utilization on Windows
+
+Eg: Kill a running task (say Notepad) using powershell
+
+Take the PID (Process ID) from task manager (ctrl+shift+esc)
+
+Run the command in powershell:
+taskkill /pid <enter id here>
+If success the following message will be printed:  SUCCESS: Sent termination signal to terminate the process with PID <id>.
+  
+Hence, the process will be eliminated.
+  
+For multiple process termination use:
+taskkill /pid <enter id here> /pid <enter another id> ....
+  
+All the processes will be simultaneously terminated successfully.
